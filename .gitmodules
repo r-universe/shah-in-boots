@@ -8,6 +8,3 @@
 [submodule "card"]
 	path = card
 	url = https://github.com/shah-in-boots/card
-[submodule "rmdl"]
-	path = rmdl
-	url = https://github.com/shah-in-boots/rmdl
